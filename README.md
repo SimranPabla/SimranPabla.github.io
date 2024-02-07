@@ -1,6 +1,6 @@
 # Simranjit Singh's Cybersecurity Portfolio
 
-Welcome to my cybersecurity portfolio! I'm Simranjit Singh, a dedicated cybersecurity enthusiast with a passion for securing digital environments and mitigating emerging threats. This portfolio showcases my education, projects, certifications, and technical skills in the field of cybersecurity.
+Welcome to my cybersecurity portfolio! I'm Simranjit Singh, a dedicated cybersecurity enthusiast passionate about securing digital environments and mitigating emerging threats. This portfolio showcases my education, projects, certifications, and technical skills in cybersecurity.
 
 ## About Me
 
@@ -9,7 +9,7 @@ I'm a results-driven IT professional with an Associate's Degree in Computer Netw
 ## Education
 
 - **Computer System Technician - Networking** | Centennial College, Toronto - 2020
-  - Achieved 100% accuracy in subnet calculations and assignment.
+  - Achieved 100% accuracy in subnet calculations and assignments.
   - Proficient in OSI model and TCP/IP protocols.
   - Skilled in packet analysis using Wireshark.
 
@@ -42,6 +42,65 @@ I'm a results-driven IT professional with an Associate's Degree in Computer Netw
 - ISC2 CC (Certified in Cybersecurity)
 - EC-Council C|CT (Certified Cybersecurity Technician)
 - Active participation on TryHackMe and Hack the Box platforms.
+
+## Certifications And Activities
+
+- CompTIA A+
+- ISC2 CC (Certified in Cybersecurity)
+- EC-Council C|CT (Certified Cybersecurity Technician)
+- Active participation on TryHackMe and Hack the Box platforms.
+
+### ISC2 CC Certification Skills
+
+#### Domain 1: Security Principles
+- Mastery of fundamental security principles to establish a strong security posture.
+  - Encryption technologies (AES, RSA)
+  - Hashing algorithms (SHA-256, MD5)
+  - Authentication protocols (LDAP, RADIUS)
+  - Security frameworks (ISO/IEC 27001, NIST Cybersecurity Framework)
+
+#### Domain 2: Business Continuity (BC), Disaster Recovery (DR) & Incident Response Concepts
+- Proficiency in developing and implementing business continuity and disaster recovery plans.
+- Skills in effectively responding to and mitigating security incidents.
+  - Business continuity planning tools (Datto, Zerto)
+  - Incident response platforms (Splunk, IBM QRadar)
+  - Disaster recovery solutions (Veeam, Acronis)
+
+#### Domain 3: Access Controls Concepts
+- Understanding of access control mechanisms to protect sensitive data and resources.
+  - Identity and access management (IAM) solutions (Okta, Azure AD)
+  - Role-based access control (RBAC)
+  - Two-factor authentication (2FA)
+
+#### Domain 4: Network Security
+- Expertise in implementing network security measures to safeguard against threats and attacks.
+  - Firewall technologies (Cisco ASA, Palo Alto Networks)
+  - Intrusion detection/prevention systems (IDS/IPS)
+  - Virtual private network (VPN) solutions (OpenVPN, Cisco AnyConnect)
+  - Secure Socket Layer/Transport Layer Security (SSL/TLS) protocols
+
+#### Domain 5: Security Operations
+- Knowledge of security operations to ensure the smooth functioning of security controls and processes.
+  - Security information and event management (SIEM) platforms (Splunk Enterprise Security, ArcSight)
+  - Security orchestration, automation, and response (SOAR) tools (Demisto, Phantom)
+  - Endpoint detection and response (EDR) solutions (CrowdStrike, Carbon Black)
+
+### EC-Council Certified Cybersecurity Technician Skills
+
+- Comprehensive understanding of key issues and challenges in the cybersecurity industry.
+- Proficiency in addressing information security threats, vulnerabilities, and attacks.
+- Mastery of network security fundamentals, including wireless network security and encryption.
+- Expertise in implementing security controls and measures, including administrative, physical, and technical controls.
+- Familiarity with application security design, virtualization, cloud computing, and cloud security.
+- Skills in cryptography, data security controls, and data loss prevention techniques.
+  - Application security testing tools (Burp Suite, OWASP ZAP)
+  - Virtualization platforms (VMware, VirtualBox)
+  - Cloud computing platforms (Amazon Web Services, Microsoft Azure)
+  - Wireless network security protocols (WPA2, WPA3)
+  - Mobile device management (MDM) solutions (MobileIron, VMware AirWatch)
+- Proficiency in network troubleshooting, traffic monitoring, and incident handling and response.
+- Knowledge of computer forensics fundamentals and digital evidence handling.
+
 
 ## Technical Skills
 
