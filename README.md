@@ -7,6 +7,10 @@
 <li>- 🏆 Top 2% on TryHackMe | Active on HackTheBox</li>
 <li>- 🚀 Passionate about Secure AI, AppSec & Red Teaming</li>
 
+
+<H4> 📌 Featured Projects</H4>
+Comming Soon.. 
+
 <H4>
 💡 Connect with me: https://www.linkedin.com/in/simranjit-singh-pabla/
 </H4>
